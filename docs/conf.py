@@ -2,7 +2,7 @@ project = 'HitmanPro Login Account'
 author = 'Your Name'
 release = '1.0'
 
-extensions = []
+extensions = ['sphinx.ext.autodoc']
 templates_path = ['_templates']
 exclude_patterns = []
 
