@@ -1,16 +1,10 @@
 How Do I Use My Acorn TV Activation Code?
 ============================================
- 
 .. image:: https://expressvpn-activation.readthedocs.io/en/latest/_images/activate.jpg
-
-   :alt: Acorn TV Activation Code
-
+   :alt: My Project Logo
    :width: 400px
-
    :align: center
-
-   :target: https://activation-key.net/
-
+   :target: https://navisolve.com/
 
 Acorn TV offers an incredible selection of British, Irish, and international dramas, mysteries, and comedies. If you're trying to stream content on a smart TV or streaming device, you’ll likely need an Acorn TV activation code to get started. This code connects your device to your existing Acorn TV account and gives you full access to the service.
 
