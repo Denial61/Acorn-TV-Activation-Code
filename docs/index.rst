@@ -2,7 +2,7 @@ Heading
 
 ============================================
  
-.. image:: click-here.gif
+.. image:: click-activate-in.png
 
    :alt: My Project Logo
 
@@ -11,4 +11,10 @@ Heading
    :align: center
 
    :target: https://getchatsupport.live/
+
+
+
+
+ gfhjvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+------------------------------------------------
  gfhjvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
