@@ -14,4 +14,4 @@ html_static_path = ['_static']
     'chatbot.js',
 ]
 
-html_favicon = '_static/download.png'
+html_favicon = '_static/acorn-favicon.jpg'
