@@ -1,5 +1,4 @@
 Heading
-
 ============================================
  
 .. image:: click-activate-in.png
