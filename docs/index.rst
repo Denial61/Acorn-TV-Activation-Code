@@ -1,6 +1,6 @@
 How Do I Use My Acorn TV Activation Code?
 ============================================
-.. image:: https://expressvpn-activation.readthedocs.io/en/latest/_images/activate.jpg
+.. image:: activate.jpg
    :alt: My Project Logo
    :width: 400px
    :align: center
